@@ -31,8 +31,10 @@ My work spans **research prototypes, applied ML systems, and academic projects**
 
 ---
 
-## 📊 GitHub Activity
-![Snake animation](https://github.com/<username>/<username>/blob/output/github-contribution-grid-snake.svg)
+## 📊 Contribution Graph
+
+![GitHub Snake](https://github.com/samratrajsharma/samratrajsharma/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
